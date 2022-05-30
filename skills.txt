@@ -1,0 +1,5 @@
+QA theory
+VPN
+Android Studio
+SQL
+Scrum
